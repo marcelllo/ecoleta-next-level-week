@@ -1,0 +1,7 @@
+# exclude 
+node_modules/
+uploads/
+!uploads/.gitkeep
+
+*.sqlite
+app.json
